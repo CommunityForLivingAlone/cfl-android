@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "CFL"
 include ':app'
+include ':presentation'
